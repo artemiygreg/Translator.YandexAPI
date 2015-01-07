@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/main.xml">
+        <config>
+          <state>Portrait</state>
+          <theme>@android:style/Theme.Holo</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e72aa24-bb19-4fe4-ad98-f01d6231b0d5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/classes/App$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/classes/App$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/classes/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/classes/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONEntity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONEntity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCHttpClient$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCHttpClient$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCHttpClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCHttpClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCParams$Versions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCParams$Versions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCParams.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCParams.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$29.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$29.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$31.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$31.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$Description.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$Description.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$MessageObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$MessageObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnBooleanResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnBooleanResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnDoubleResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnDoubleResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnIntResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnIntResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnJSONArrayResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnJSONArrayResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnJSONObjectResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnJSONObjectResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnLongResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnLongResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnObjectResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnObjectResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient$OnStringResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient$OnStringResultListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/jsonrpc/JSONRPCThreadedHttpClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/jsonrpc/JSONRPCThreadedHttpClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/MainActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/MainActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/example/example/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/classes/Server$AsyncTaskSend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/classes/Server$AsyncTaskSend.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/classes/Server.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/classes/Server.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/TestActivity$MySurfaceView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/TestActivity$MySurfaceView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/com/example/example/activity/TestActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/com/translator/activity/TestActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/example/example.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/translator.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/translator/translator.unaligned.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/translator/classes/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/example/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCThreadedClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsonrpc/JSONRPCThreadedHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/translator/activity/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/example/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/example/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/translator/classes/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/translator/activity/TestActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/activitydictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/translator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="example.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="example" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1878" max-vertical-offset="3264">
+              <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+              <folding>
+                <element signature="e#1493#1517#0" expanded="true" />
+                <element signature="e#2746#3332#0" expanded="true" />
+                <element signature="e#3331#3332#0" expanded="true" />
+                <element signature="e#3389#3976#0" expanded="true" />
+                <element signature="e#3975#3976#0" expanded="true" />
+                <element signature="e#4021#5259#0" expanded="true" />
+                <element signature="e#4222#4242#0" expanded="true" />
+                <element signature="e#4309#4323#0" expanded="true" />
+                <element signature="e#4353#4381#0" expanded="true" />
+                <element signature="e#4566#4586#0" expanded="true" />
+                <element signature="e#4734#4750#0" expanded="true" />
+                <element signature="e#4781#4797#0" expanded="true" />
+                <element signature="e#4949#4969#0" expanded="true" />
+                <element signature="e#5258#5259#0" expanded="true" />
+                <element signature="e#5482#5502#0" expanded="true" />
+                <element signature="e#5564#5578#0" expanded="true" />
+                <element signature="e#5608#5624#0" expanded="true" />
+                <element signature="e#5752#5768#0" expanded="true" />
+                <element signature="e#6064#6080#0" expanded="true" />
+                <element signature="e#6439#6455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1368" max-vertical-offset="4560">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <folding>
+                <element signature="e#7648#7649#0" expanded="true" />
+                <element signature="e#7683#7684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37065637" vertical-offset="0" max-vertical-offset="518">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/example/example/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/example/classes/App.java" />
+        <option value="$PROJECT_DIR$/src/com/example/example/classes/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/example/l/classes/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/example/k/classes/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/k/classes/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/api/classes/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/translator/classes/Server.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 17 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator.YandexAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator.YandexAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator.YandexAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator.YandexAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator.YandexAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects_java\example\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.MainActivity">
+    <configuration default="false" name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="translator" />
+      <option name="ACTIVITY_CLASS" value="com.translator.activity.MainActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="example" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.MainActivity" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Android Application.MainActivity" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e72aa24-bb19-4fe4-ad98-f01d6231b0d5" name="Default" comment="" />
+      <created>1410365309510</created>
+      <option name="number" value="Default" />
+      <updated>1410365309510</updated>
+      <workItem from="1410365354969" duration="65000" />
+      <workItem from="1410365545023" duration="3181000" />
+      <workItem from="1410426586902" duration="2490000" />
+      <workItem from="1410429499409" duration="1664000" />
+      <workItem from="1410431394760" duration="16725000" />
+      <workItem from="1410507591477" duration="23977000" />
+      <workItem from="1410769530807" duration="26706000" />
+      <workItem from="1410856455843" duration="6930000" />
+      <workItem from="1410938979498" duration="2470000" />
+      <workItem from="1410943873971" duration="3852000" />
+      <workItem from="1410968468771" duration="7000" />
+      <workItem from="1411478857160" duration="660000" />
+      <workItem from="1420642235796" duration="4115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1288" height="998" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29210836" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18820679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336887" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="3480">
+          <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="3480">
+          <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="3480">
+          <caret line="108" column="50" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1032">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1344">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="2280">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3124">
+          <caret line="50" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="4598">
+          <caret line="40" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1144">
+          <caret line="12" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="1496">
+          <caret line="56" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="2090">
+          <caret line="11" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3124">
+          <caret line="99" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3146" max-vertical-offset="4598">
+          <caret line="143" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1144">
+          <caret line="12" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="1496">
+          <caret line="56" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="2090">
+          <caret line="11" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="682" max-vertical-offset="2134">
+          <caret line="31" column="68" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3432" max-vertical-offset="3696">
+          <caret line="156" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1144">
+          <caret line="12" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1342" max-vertical-offset="1496">
+          <caret line="61" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1518">
+          <caret line="28" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1078">
+          <caret line="34" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="660">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2156" max-vertical-offset="2860">
+          <caret line="98" column="89" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1144">
+          <caret line="10" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1342" max-vertical-offset="1496">
+          <caret line="61" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="616">
+          <caret line="6" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2310">
+          <caret line="39" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1342" max-vertical-offset="1496">
+          <caret line="61" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="440">
+          <caret line="8" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2552">
+          <caret line="27" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1298" max-vertical-offset="1562">
+          <caret line="64" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="440">
+          <caret line="8" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="2596">
+          <caret line="99" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="440">
+          <caret line="8" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="462">
+          <caret line="6" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsonrpc/JSONRPCThreadedClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32954547" vertical-offset="1425" max-vertical-offset="19294">
+          <caret line="74" column="55" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsonrpc/JSONRPCHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64179105" vertical-offset="295" max-vertical-offset="2838">
+          <caret line="51" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsonrpc/JSONRPCClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9056399" vertical-offset="10407" max-vertical-offset="12650">
+          <caret line="535" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82568806" vertical-offset="0" max-vertical-offset="1344">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activitydictionary.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="912">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="2090">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1555556" vertical-offset="0" max-vertical-offset="1248">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#1153#1164#0" expanded="true" />
+            <element signature="e#1167#1354#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/classes/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4560">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#7648#7649#0" expanded="true" />
+            <element signature="e#7683#7684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/translator/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1878" max-vertical-offset="3264">
+          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+          <folding>
+            <element signature="e#1493#1517#0" expanded="true" />
+            <element signature="e#2746#3332#0" expanded="true" />
+            <element signature="e#3331#3332#0" expanded="true" />
+            <element signature="e#3389#3976#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#5259#0" expanded="true" />
+            <element signature="e#4222#4242#0" expanded="true" />
+            <element signature="e#4309#4323#0" expanded="true" />
+            <element signature="e#4353#4381#0" expanded="true" />
+            <element signature="e#4566#4586#0" expanded="true" />
+            <element signature="e#4734#4750#0" expanded="true" />
+            <element signature="e#4781#4797#0" expanded="true" />
+            <element signature="e#4949#4969#0" expanded="true" />
+            <element signature="e#5258#5259#0" expanded="true" />
+            <element signature="e#5482#5502#0" expanded="true" />
+            <element signature="e#5564#5578#0" expanded="true" />
+            <element signature="e#5608#5624#0" expanded="true" />
+            <element signature="e#5752#5768#0" expanded="true" />
+            <element signature="e#6064#6080#0" expanded="true" />
+            <element signature="e#6439#6455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37065637" vertical-offset="0" max-vertical-offset="518">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 14 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="error">Error</string>
+    <string name="ok">ОК</string>
+    <string name="textTranslating">Text translating…</string>
+    <string name="messageForTranslate">"Please input message for the translate"</string>
+    <string name="emptyString">""</string>
+    <string name="notText">Not text for translate</string>
+    <string name="ruToEng">"ru-eng"</string>
+    <string name="engToRu">"eng-ru"</string>
+</resources>
